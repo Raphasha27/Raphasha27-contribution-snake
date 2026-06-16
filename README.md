@@ -6,7 +6,9 @@ GitHub Actions workflow that generates contribution snake animation for profile 
 
 Clone the repository:
 
-```bash
+```ba
+[![Security](https://img.shields.io/badge/Security-Policy-1f6feb?style=for-the-badge&logo=github)](SECURITY.md)
+sh
 git clone https://github.com/Raphasha27/Raphasha27-contribution-snake.git
 cd Raphasha27-contribution-snake
 ```
